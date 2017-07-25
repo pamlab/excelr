@@ -1,6 +1,8 @@
 Excelr
 ======
 
+[![CircleCI](https://circleci.com/gh/pamlab/excelr.svg?style=svg)](https://circleci.com/gh/pamlab/excelr)
+
 エクセルからデータを抜き取り、htmlを生成します。
 
 ![img](https://user-images.githubusercontent.com/7459529/28049135-3df75f0a-6630-11e7-9e28-a732aff14bcb.png)
